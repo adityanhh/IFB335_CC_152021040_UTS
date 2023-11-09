@@ -85,13 +85,13 @@ class _HomePageState extends State<HomePage> {
       // Navigasi ke halaman "Akun"
       Navigator.push(context, MaterialPageRoute(builder: (context) => AccountPage(
       user: User(
-      name: 'Rizky Bachtiar',
-      username: 'erbe',
-      email: 'rbachtiar71@gmail.com',
-      phoneNumber: '082117672806',
+      name: 'Aditya Nugraha',
+      username: 'adit',
+      email: 'aditya.an21@gmail.com',
+      phoneNumber: '085156408686',
       birthplace: 'Bandung',
-      birthdate: '19-08-2002',
-      password: '123',
+      birthdate: '12-02-2002',
+      password: 'siadit123',
     )
       )
       )

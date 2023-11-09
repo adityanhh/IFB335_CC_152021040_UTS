@@ -61,7 +61,7 @@ class _CurrencyConverterState extends State<CurrencyConverter> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Image.asset('assets/konversi.png'), // Tambahkan gambar suhu di sini
+            Image.asset('assets/konversi.jpg'), // Tambahkan gambar suhu di sini
             SizedBox(height: 15.0),
             TextField(
               keyboardType: TextInputType.number,

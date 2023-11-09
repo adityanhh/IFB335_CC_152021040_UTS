@@ -13,7 +13,7 @@ class InfoPage extends StatelessWidget {
           children: [
             CircleAvatar(
               radius: 75, // Ukuran lingkaran
-              backgroundImage: AssetImage('assets/profil.jpg'), // Ganti dengan path ke foto pembuat Anda
+              backgroundImage: AssetImage('assets/profile.png'), // Ganti dengan path ke foto pembuat Anda
             ),
             SizedBox(height: 20),
             Text(
